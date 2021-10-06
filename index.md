@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Blog Repository
 
-[Development](https://oneof6.github.io/nowlog/p01.md)
+[Development](https://oneof6.github.io/nowlog/p01)
