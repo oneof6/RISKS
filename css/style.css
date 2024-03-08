@@ -131,6 +131,10 @@ a:focus {
 
 a:hover,
 a:focus {
+  color: white;
+}
+
+a {
   color: red;
 }
 
